@@ -1,1 +1,0 @@
-import{u as o}from"./MapboxPanel/stores/deviceStore-DhujkE0z.js";import{w as s}from"./DataProcess/DataHandler-Df-exzP1.js";const i={__name:"localStorage",setup(a){const r=o();return s(()=>r.propsMap,e=>{const t=JSON.stringify(e);localStorage.setItem("itemsProp",t)},{deep:!0}),(e,t)=>null}};export{i as _};
